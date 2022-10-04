@@ -35,14 +35,14 @@
                 android:id="@+id/password"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="@string/contrase_a_hint"
-                android:text="@string/email"
-                tools:layout_editor_absoluteX="54dp"
-                tools:layout_editor_absoluteY="124dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="10dp"
-                />
+                android:hint="@string/contrase_a_hint"
+                android:inputType="textPassword"
+                android:text="@string/email"
+                tools:layout_editor_absoluteX="54dp"
+                tools:layout_editor_absoluteY="124dp" />
 
             <Button
                 android:id="@+id/btnLogin"

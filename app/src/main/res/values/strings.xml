@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P02_Login</string>
+    <string name="email" />
+    <string name="correo_electr_nico_hint">Correo Electrónico</string>
+    <string name="contrase_a_hint">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+</resources>
